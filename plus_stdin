@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-
+#SPDX-FIleCopyrightTexy: 2023 Tsubokura Ryosuke 
 import sys
 
 ans=0
