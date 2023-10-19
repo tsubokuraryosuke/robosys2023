@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-#SPDX-FIleCopyrightTexy: 2023 Tsubokura Ryosuke 
+#SPDX-FIleCopyrightTexy: 2023 Tsubokura Ryosuke
+#SPDX-Lincense-Indentifier: BSD-3-Clause
 import sys
 
 ans=0
