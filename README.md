@@ -1,7 +1,6 @@
 # robosys2023
 ロボットシステム学2023
 
-*plus command
 [test](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml/badge.svg)](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml)
 
 ## プログラムの目的
