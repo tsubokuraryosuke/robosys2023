@@ -3,17 +3,11 @@
 
 ![test](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml/badge.svg)(https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml)
 
-## プログラムの目的
-計算を行うことを目的とする。
-
-## plusの概要　　
+## プログラムの目的　　
 * 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。　　
 
-## 使用例
-* 入力  
-10 | ./plus 
-* 出力  
-15
+## 使用例  
+![スクリーンショット 2023-11-25 141549](https://github.com/tsubokuraryosuke/robosys2023/assets/147678957/e781288c-44a1-414a-a503-6272048b4721)
 
 ## 必要なソフトウェア
 * Python
