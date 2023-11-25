@@ -1,7 +1,7 @@
 # plusコマンド
 ロボットシステム学2023
 
-![test](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml/badge.svg)(https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml)
+![test](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml/badge.svg)
 
 ## プログラムの目的　　
 * 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。  
