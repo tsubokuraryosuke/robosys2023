@@ -14,7 +14,10 @@ $ chmod +x plus
 ```  
   
 ## 実行例  
-`seq 10 | ./plus         55`
+```
+$ seq 10 | ./plus  
+55
+```
 
 ## 必要なソフトウェア
 * Python　　  
