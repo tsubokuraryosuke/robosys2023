@@ -1,6 +1,4 @@
 # plusコマンド
-ロボットシステム学2023
-
 ![test](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml/badge.svg)
 
 ## プログラムの目的　　
