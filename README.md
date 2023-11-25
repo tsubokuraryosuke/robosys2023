@@ -8,7 +8,7 @@
 
 ## インストール方法  
 ```
-$ git clone git@git.com:tsubokuraryosuke/robosys2023.git  
+$ git clone https://github.com/tsubokuraryosuke/robosys2023 
 $ cd robosys2023  
 $ chmod +x plus
 ```  
