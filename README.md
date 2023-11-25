@@ -4,11 +4,14 @@
 ![test](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml/badge.svg)(https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml)
 
 ## プログラムの目的　　
-* 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。　　
+* 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。  
 
+## インストール方法  
+`$ git clone git@git.com:tsubokuraryosuke/robosys2023.git   
+$ cd robosys2023    
+$ chmod +x plus`
 ## 実行例  
-`seq 10 | ./plus  
-55`
+`seq 10 | ./plus         55`
 
 ## 必要なソフトウェア
 * Python　　  
