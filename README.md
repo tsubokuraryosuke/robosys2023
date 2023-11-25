@@ -6,7 +6,7 @@
 ## プログラムの目的　　
 * 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。  
 
-## 実行までにすること
+## インストール方法  
 ```
 $ git clone https://github.com/tsubokuraryosuke/robosys2023 
 $ cd robosys2023  
