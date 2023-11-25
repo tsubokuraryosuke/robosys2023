@@ -1,4 +1,4 @@
-# robosys2023
+# plusコマンド
 ロボットシステム学2023
 
 ![test](https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml/badge.svg)(https://github.com/tsubokuraryosuke/robosys2023/actions/workflows/test.yml)
@@ -7,7 +7,10 @@
 * 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。　　
 
 ## 使用例  
-![スクリーンショット 2023-11-25 141549](https://github.com/tsubokuraryosuke/robosys2023/assets/147678957/e781288c-44a1-414a-a503-6272048b4721)
+![スクリーンショット 2023-11-25 141549](https://github.com/tsubokuraryosuke/robosys2023/assets/147678957/e781288c-44a1-414a-a503-6272048b4721)  
+'$ git push '  
+'isiuids
+dsjfkjfs '  
 
 ## 必要なソフトウェア
 * Python　　  
