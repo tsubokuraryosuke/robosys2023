@@ -7,7 +7,12 @@
 * 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。  
 
 ## インストール方法  
-```$ git clone git@git.com:tsubokuraryosuke/robosys2023.git  $ cd robosys2023  $ chmod +x plus```  
+```
+$ git clone git@git.com:tsubokuraryosuke/robosys2023.git  
+$ cd robosys2023  
+$ chmod +x plus
+```  
+  
 ## 実行例  
 `seq 10 | ./plus         55`
 
