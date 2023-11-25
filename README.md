@@ -10,8 +10,8 @@
 ![スクリーンショット 2023-11-25 141549](https://github.com/tsubokuraryosuke/robosys2023/assets/147678957/e781288c-44a1-414a-a503-6272048b4721)
 
 ## 必要なソフトウェア
-* Python
-	*テスト済み: 3.7~3.10
+* Python　　  
+　　テスト済み: 3.7~3.10
 ## テスト環境
 * Ubuntu 20.04.6 LTS
 
