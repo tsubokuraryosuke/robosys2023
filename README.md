@@ -7,8 +7,8 @@
 * 1から入力した数字までのすべての数字を足し合わせた結果の値を出力する。　　
 
 ## 使用例  
-![スクリーンショット 2023-11-25 141549](https://github.com/tsubokuraryosuke/robosys2023/assets/147678957/e781288c-44a1-414a-a503-6272048b4721)  
-`githu nakjl` 
+`seq 10 | ./plus  
+ 55		` 
 
 ## 必要なソフトウェア
 * Python　　  
